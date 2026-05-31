@@ -12,20 +12,20 @@ Building my portfolio and starting projects focused on Artificial Intelligence a
 
 | Project | Live Demo |
 |----------|----------|
-| 🌐 Personal Portfolio | [Visit](https://shubhampokale.vercel.app/) |
-| 🏕️ Jungle Quest Hunt | [Visit](https://junglequesthunt.vercel.app/) |
-| ⚗️ Chem Spread | [Visit](https://chem-spread.vercel.app/) |
-| 🤖 Shubh AI Work | [Visit](https://shubh-ai-work.vercel.app/) |
-| 💻 Mentra Code | [Visit](https://mentra-code.vercel.app/) |
-| ✨ Namantra Name | [Visit](https://namantra-name.vercel.app/) |
-| 🌾 CropNet AI | [Visit](https://cropnet-ai.vercel.app/) |
-| 🛠️ Handy AI | [Visit](https://handy-ai-shubham.vercel.app/handy-ai-store/index.html) |
-| 🎨 BackRem AI | [Visit](https://backrem-ai.vercel.app) |
-| 📊 Insight IQ CSV | [Visit](https://insight-iq-csv.vercel.app/) |
-| 🧪 Prayo Lab | [Visit](https://prayo-lab.vercel.app/) |
-| 🔐 SecurePass | [Visit](https://secure-pass-shubham.vercel.app) |
-| ⚒️ Forge Tools | [Visit](https://forge-tools-shubham.vercel.app/) |
-| ⌨️ Type Rift | [Visit](https://type-rift-shubham.vercel.app) |
+| 🌐 Personal Portfolio | [Explore Me](https://shubhampokale.vercel.app/) |
+| 🏕️ Jungle Quest Hunt | [Win the Quest](https://junglequesthunt.vercel.app/) |
+| ⚗️ Chem Spread | [Chemistry Love](https://chem-spread.vercel.app/) |
+| 🤖 Shubh AI Work | [Enhance Your Work](https://shubh-ai-work.vercel.app/) |
+| 💻 Mentra Code | [Code with no Error](https://mentra-code.vercel.app/) |
+| ✨ Namantra Name | [Make moments with Name](https://namantra-name.vercel.app/) |
+| 🌾 CropNet AI | [Farmer's Faith](https://cropnet-ai.vercel.app/) |
+| 🛠️ Handy AI | [Play with Hands](https://handy-ai-shubham.vercel.app/handy-ai-store/index.html) |
+| 🎨 BackRem AI | [Remove Background](https://backrem-ai.vercel.app) |
+| 📊 Insight IQ CSV | [Get Insights](https://insight-iq-csv.vercel.app/) |
+| 🧪 Prayo Lab | [Experiment with Maths](https://prayo-lab.vercel.app/) |
+| 🔐 SecurePass | [Secure your Life](https://secure-pass-shubham.vercel.app) |
+| ⚒️ Forge Tools | [Explore Tools](https://forge-tools-shubham.vercel.app/) |
+| ⌨️ Type Rift | [Type Battle](https://type-rift-shubham.vercel.app) |
 
 
 # 📊 GitHub Stats:
