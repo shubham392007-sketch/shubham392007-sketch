@@ -588,19 +588,19 @@ Building software with a strong focus on Artificial Intelligence, scalable web a
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/shubham_392007-sketch/">
 <img src="https://img.shields.io/badge/LeetCode-Visit-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<a href="https://www.geeksforgeeks.org/profile/shubham09o1">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Visit-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/shubham392007">
 <img src="https://img.shields.io/badge/HackerRank-Visit-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/shubham_392007">
 <img src="https://img.shields.io/badge/CodeChef-Visit-5B4638?style=for-the-badge"/>
 </a>
 
