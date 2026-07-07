@@ -645,18 +645,23 @@ Building software with a strong focus on Artificial Intelligence, scalable web a
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
-
-> **Note:** To make the snake animation work, you'll need to set up the GitHub Action that generates the `output/github-contribution-grid-snake-dark.svg` file in your profile repository.
-
----
 
 # 🎯 Current Focus
 
