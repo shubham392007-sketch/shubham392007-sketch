@@ -1,31 +1,55 @@
 <!-- ====================================================== -->
+<!--         ANIMATED HOLOGRAM BANNER (dark / light)         -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/banner.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/banner-light.svg?v=1" />
+    <img alt="Shubham Pokale animated banner" src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/banner.svg?v=1" width="100%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Auto-switches with your GitHub color scheme &nbsp;•&nbsp; terminal intro • hologram reveal • continuous scan sweep • typed tagline • live tech stack</sub>
+</p>
+
+<!-- ====================================================== -->
+<!--                  SWINGING ID LANYARD                    -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img alt="Shubham Pokale swinging ID lanyard badge" src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/lanyard.svg?v=1" width="260"/>
+</p>
+
+<!-- ====================================================== -->
 <!--                    ANIMATED HEADER                      -->
 <!-- ====================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6366F1,65:7C3AED,100:8B5CF6&text=Shubham%20Pokale&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1D4ED8,35:2563EB,65:0EA5E9,100:38BDF8&text=Shubham%20Pokale&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+Enthusiast;Software+Engineering+Student;Building+AI+Products+that+Solve+Real+Problems;Full+Stack+Developer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+Enthusiast;Software+Engineering+Student;Building+AI+Products+that+Solve+Real+Problems;Full+Stack+Developer;Always+Learning+Always+Building" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/PCCOE-Engineering-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PCCOE-Engineering-0EA5E9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-0EA5E9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pune-India-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pune-India-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-38BDF8?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://shubhampokale.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-1E40AF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-pokale-94030b37a">
@@ -44,11 +68,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shubham392007-sketch&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=shubham392007-sketch&style=for-the-badge&color=0EA5E9"/>
 
-<img src="https://img.shields.io/github/followers/shubham392007-sketch?style=for-the-badge&color=7C3AED&label=Followers"/>
+<img src="https://img.shields.io/github/followers/shubham392007-sketch?style=for-the-badge&color=0EA5E9&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/shubham392007-sketch?style=for-the-badge&color=7C3AED&label=Stars"/>
+<img src="https://img.shields.io/github/stars/shubham392007-sketch?style=for-the-badge&color=0EA5E9&label=Stars"/>
 
 </p>
 
@@ -564,13 +588,13 @@ Building software with a strong focus on Artificial Intelligence, scalable web a
 
 ### 🎓 Currently Learning
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-blueviolet?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Learning-0EA5E9?style=for-the-badge)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-In%20Progress-6C63FF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-In%20Progress-2563EB?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Learning-7C3AED?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Learning-0EA5E9?style=for-the-badge)
 
 ---
 
@@ -608,11 +632,27 @@ Building software with a strong focus on Artificial Intelligence, scalable web a
 
 ---
 
+---
+
+# 📊 Local Animated Stat Cards
+
+<sub>Self-hosted SVG cards — SMIL/CSS animated, no third-party rate limits.</sub>
+
+<p align="center">
+  <img alt="Animated GitHub stats" src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/stats.svg?v=1" width="48%"/>
+  &nbsp;
+  <img alt="Animated top languages" src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/langs.svg?v=1" width="48%"/>
+</p>
+
+<p align="center">
+  <img alt="Animated GitHub trophies" src="https://raw.githubusercontent.com/shubham392007-sketch/shubham392007-sketch/main/assets/trophies.svg?v=1" width="98%"/>
+</p>
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shubham392007-sketch&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shubham392007-sketch&theme=github_dark_blue&hide_border=true"/>
 
 </p>
 ---
@@ -695,7 +735,7 @@ open_to:
 </a>
 
 <a href="https://shubhampokale.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-1E40AF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -709,5 +749,5 @@ open_to:
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,35:6366F1,65:7C3AED,100:8B5CF6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:1D4ED8,35:2563EB,65:0EA5E9,100:38BDF8"/>
 </p>
